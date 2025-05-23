@@ -17,8 +17,8 @@ import org.slf4j.LoggerFactory;
 import tomcat.request.session.exception.BackendException;
 import tomcat.request.session.model.SingleSignOnEntry;
 
-import javax.servlet.ServletException;
-import javax.servlet.http.Cookie;
+import jakarta.servlet.ServletException;
+import jakarta.servlet.http.Cookie;
 import java.io.IOException;
 import java.security.Principal;
 import java.util.Set;

@@ -5,9 +5,8 @@
  */
 
 Supports:
-   - Apache Tomcat 7
-   - Apache Tomcat 8
-   - Apache Tomcat 9
+   - Apache Tomcat 10
+   - Apache Tomcat 11
 
 Pre-requisite:
 	1. jedis.jar
